@@ -1,0 +1,1 @@
+Git branching allows working on features separately.
